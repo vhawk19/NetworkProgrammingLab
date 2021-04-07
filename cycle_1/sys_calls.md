@@ -41,7 +41,8 @@ Description: Returns the effective group id of the calling process.
 
 
 ## Program
-![](https://i.imgur.com/WpjEdT5.png)
+![](https://i.imgur.com/WpjEdT5.png)\
+![Link to program](https://github.com/vhawk19/NetworkProgrammingLab/blob/main/cycle_1/sys_calls.go)
 
 
 ## Execution
