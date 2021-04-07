@@ -41,7 +41,7 @@ Description: Returns the effective group id of the calling process.
 
 
 ## Program
-![](https://i.imgur.com/WpjEdT5.png)\
+![](https://i.imgur.com/jUeaQj4.png)\
 ![Link to program](https://github.com/vhawk19/NetworkProgrammingLab/blob/main/cycle_1/sys_calls.go)
 
 
@@ -52,7 +52,8 @@ Description: Returns the effective group id of the calling process.
 4. Terminate
         
 ## Output
-![](https://i.imgur.com/Q89fnLh.png)
+![](https://i.imgur.com/KuU1BU2.png)
+
 
 ## Result
 The program has been executed successfully. Thus the process id, the parent process id, real user id, effective user id, real group id and effective group id have been obtained successfully. 
